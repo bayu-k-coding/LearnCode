@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("laptop.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content {
+    background-color: indigo;
+    font-family: sans-serif;
+}
